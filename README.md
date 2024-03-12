@@ -9,6 +9,6 @@ C++
 ###  【登录页面】
  ![登录页面](https://github.com/HD12138/Qt_quick_music/blob/main/Qt_quick_music/course-qt-quick-music-player-demo-master/git_images/log.png)
 ### 【功能页面】
-![功能页面](https://github.com/HD12138/Qt_quick_music/blob/main/Qt_quick_music/course-qt-quick-music-player-demo-master/git_images/home.png)
+ ![功能页面](https://github.com/HD12138/Qt_quick_music/blob/main/Qt_quick_music/course-qt-quick-music-player-demo-master/git_images/home.png)
 
 ##  【仅用于学习用途】
